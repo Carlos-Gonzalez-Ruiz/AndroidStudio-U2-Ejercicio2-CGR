@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis viajes</string>
+    <string name="namePlaceholder">Titulo Placeholder</string>
+    <string name="imagePlaceholder">Imagen placeholder</string>
+</resources>
